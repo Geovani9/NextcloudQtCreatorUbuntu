@@ -1,4 +1,4 @@
-# Nextcloud for Ubuntu 23.04
+# Nextcloud-QtCreator, Ubuntu 23.04
 
 ## 1 . Install necessary tools and libraries:
 1 . Update the package lists:
@@ -108,7 +108,7 @@ https://github.com/Geovani9/NextcloudQtCreatorUbuntu.git
 
 2 . Navigate to the directory:
 ```
-cd repository_name
+cd NextcloudQtCreatorUbuntu
 ```
 
 3 . Make the script executable:
