@@ -1,3 +1,5 @@
+# Geovani Rodriguez
+
 #!/bin/bash
 
 # Update repositories
