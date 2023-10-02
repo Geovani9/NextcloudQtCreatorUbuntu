@@ -72,7 +72,7 @@ cd build
 
 2 . Run CMake to configure the project. This will prepare the build and generate necessary files for Qt Creator:
 ```
-cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/usr/lib/x86_64-linux-gnu/qt5/ ..
+cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_PREFIX_PATH=/usr/lib/x86_64-linux-gnu/qt5/..
 ```
 Note: Adjust the -DCMAKE_PREFIX_PATH if your Qt5 path is different.
 
